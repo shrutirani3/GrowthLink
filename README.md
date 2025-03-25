@@ -21,9 +21,9 @@ git clone https://github.com/shrutirani3/GrowthLink
 
 2.Navigate to the project directory:
 
-cd Netflix-Clone
+cd GrowthLink
 
-3.Open the index.html file in your web browser.
+3.Open the net.html file in your web browser.
 
 Limitations :
 
